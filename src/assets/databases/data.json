@@ -1,0 +1,575 @@
+{
+  "maincategory": [
+    {
+      "name": "Male",
+      "id": 1
+    },
+    {
+      "name": "Female",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Kids"
+    },
+    {
+      "id": 5,
+      "name": "Children"
+    },
+    {
+      "name": "Women",
+      "id": 6
+    }
+  ],
+  "subcategory": [
+    {
+      "name": "Jeans",
+      "id": 1
+    },
+    {
+      "name": "Shirt",
+      "id": 2
+    },
+    {
+      "name": "Tshirt",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Trouser"
+    }
+  ],
+  "brand": [
+    {
+      "name": "Zara",
+      "id": 1
+    },
+    {
+      "name": "Gucci",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Adidas"
+    },
+    {
+      "name": "Tommy Hilfiger",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Polo"
+    }
+  ],
+  "product": [
+    {
+      "name": "Kids Jeans Black slim fit Gucci",
+      "maincategory": "Kids",
+      "subcategory": "Jeans",
+      "brand": "Gucci",
+      "color": "Blue",
+      "size": "xl",
+      "baseprice": 3200,
+      "discount": 12,
+      "finalprice": 2816,
+      "stock": "In stock",
+      "description": "In Sample Product",
+      "pic1": "bg_1.jpg",
+      "pic2": "choose-1.jpg",
+      "pic3": "bg_2.png",
+      "pic4": "choose-2.jpg",
+      "id": 11
+    },
+    {
+      "name": "Mens",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Adidas",
+      "color": "Black",
+      "size": "xl",
+      "baseprice": 2340,
+      "discount": 20,
+      "finalprice": 1872,
+      "stock": "In stock",
+      "description": "In Sample Product",
+      "pic1": "choose-1.jpg",
+      "pic2": "bg_6.jpg",
+      "pic3": "gallery-1.jpg",
+      "pic4": "choose-2.jpg",
+      "id": 12
+    },
+    {
+      "id": 13,
+      "name": "Men's Shirt Blue Xtra large Adidas",
+      "maincategory": "Male",
+      "subcategory": "Shirt",
+      "brand": "Adidas",
+      "color": "Black",
+      "size": "sm",
+      "baseprice": 5400,
+      "discount": 20,
+      "finalprice": 4320,
+      "stock": "In stock",
+      "description": "In Sample Product",
+      "pic1": "bg_2.png",
+      "pic2": "bg_6.jpg",
+      "pic3": "about.jpg",
+      "pic4": "bg_1.png"
+    },
+    {
+      "name": "Female Jeans Blue Gucci",
+      "maincategory": "Female",
+      "subcategory": "Jeans",
+      "brand": "Gucci",
+      "color": "Blue",
+      "size": "32",
+      "baseprice": 1200,
+      "discount": 10,
+      "finalprice": 1080,
+      "stock": "In stock",
+      "description": "In Sample Product",
+      "pic1": "image_3.jpg",
+      "pic2": "image_2.jpg",
+      "pic3": "image_1.jpg",
+      "pic4": "image_6.jpg",
+      "id": 14
+    },
+    {
+      "name": "Female Jeans Blue Adidas",
+      "maincategory": "Female",
+      "subcategory": "Jeans",
+      "brand": "Adidas",
+      "color": "Blue",
+      "size": "34",
+      "baseprice": 2300,
+      "discount": 10,
+      "finalprice": 2070,
+      "stock": "In stock",
+      "description": "In Sample Product",
+      "pic1": "bg_1.png",
+      "pic2": "choose-2.jpg",
+      "pic3": "image_5.jpg",
+      "pic4": "image_3.jpg",
+      "id": 15
+    },
+    {
+      "name": "Female shirt greenish Adidas",
+      "maincategory": "Female",
+      "subcategory": "Shirt",
+      "brand": "Adidas",
+      "color": "Green",
+      "size": "28",
+      "baseprice": 5600,
+      "discount": 23,
+      "finalprice": 4312,
+      "stock": "In stock",
+      "description": "In Sample Product",
+      "pic1": "gallery-5.jpg",
+      "pic2": "gallery-4.jpg",
+      "pic3": "choose-2.jpg",
+      "pic4": "bg_1.png",
+      "id": 16
+    },
+    {
+      "id": 17,
+      "name": "mens",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Zara",
+      "color": "Blue",
+      "size": "28",
+      "baseprice": 3400,
+      "discount": 12,
+      "finalprice": 2992,
+      "stock": "In stock",
+      "description": "In Sample Product",
+      "pic1": "person_1.jpg",
+      "pic2": "person_2.jpg",
+      "pic3": "person_3.jpg",
+      "pic4": "person_4.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Kids Jeans Black slim fit Gucci",
+      "maincategory": "Kids",
+      "subcategory": "Jeans",
+      "brand": "Gucci",
+      "color": "Black",
+      "size": "28",
+      "baseprice": 2344,
+      "discount": 13,
+      "finalprice": 2039,
+      "stock": "In stock",
+      "description": "In Sample Product",
+      "pic1": "product-1.jpg",
+      "pic2": "product-5.png",
+      "pic3": "product-2.png",
+      "pic4": "product-5.png"
+    },
+    {
+      "name": "Kids Jeans Black slim fit Gucci",
+      "maincategory": "Kids",
+      "subcategory": "Jeans",
+      "brand": "Gucci",
+      "color": "Green",
+      "size": "28",
+      "baseprice": 5670,
+      "discount": 13,
+      "finalprice": 4932,
+      "stock": "In stock",
+      "description": "In Sample Product",
+      "pic1": "product-2.jpg",
+      "pic2": "product-5.png",
+      "pic3": "product-8.png",
+      "pic4": "product-4.jpg",
+      "id": 19
+    },
+    {
+      "name": "Kids Jeans Black slim fit tommy",
+      "maincategory": "Kids",
+      "subcategory": "Jeans",
+      "brand": "Tommy Hilfiger",
+      "color": "Black",
+      "size": "32",
+      "baseprice": 5640,
+      "discount": 15,
+      "finalprice": 4794,
+      "stock": "In stock",
+      "description": "In Sample Product",
+      "pic1": "product-1.jpg",
+      "pic2": "product-1.png",
+      "pic3": "product-3.jpg",
+      "pic4": "product-6.png",
+      "id": 20
+    }
+  ],
+  "contact": [
+    {
+      "id": 0
+    },
+    {
+      "name": "Nitin chauhan",
+      "email": "nitin4534@gmail.com",
+      "phone": "09854545343",
+      "subject": "Testing",
+      "message": "This is for sample purpose only",
+      "status": "Done",
+      "time": "2023-10-11T06:26:29.292Z",
+      "id": 1
+    },
+    {
+      "name": "Nitin chauhan",
+      "email": "nitin4534@gmail.com",
+      "phone": "09854545343",
+      "subject": "Testing",
+      "message": "ddddsfdfdfdfdfdfdfdgddf",
+      "status": "Done",
+      "time": "2023-10-12T07:27:27.120Z",
+      "id": 3
+    },
+    {
+      "name": "Nitin chauhan",
+      "email": "nitin4534@gmail.com",
+      "phone": "09854545343",
+      "subject": "Testing",
+      "message": "ddddsfdfdfdfdfdfdfdgddf",
+      "status": "Done",
+      "time": "2023-10-12T07:27:28.011Z",
+      "id": 4
+    },
+    {
+      "name": "Nitin chauhan",
+      "email": "nitin4534@gmail.com",
+      "phone": "09854545343",
+      "subject": "Testing",
+      "message": "ddddsfdfdfdfdfdfdfdgddf",
+      "status": "Active",
+      "time": "2023-10-12T07:27:28.035Z",
+      "id": 5
+    },
+    {
+      "name": "Nitin chauhan",
+      "email": "nitin4534@gmail.com",
+      "phone": "09854545343",
+      "subject": "Testing",
+      "message": "ddddsfdfdfdfdfdfdfdgddf",
+      "status": "Active",
+      "time": "2023-10-12T07:27:28.501Z",
+      "id": 6
+    },
+    {
+      "name": "Nitin chauhan",
+      "email": "nitin4534@gmail.com",
+      "phone": "09854545343",
+      "subject": "Testing",
+      "message": "ddddsfdfdfdfdfdfdfdgddf",
+      "status": "Active",
+      "time": "2023-10-12T07:27:28.528Z",
+      "id": 7
+    },
+    {
+      "name": "Nitin chauhan",
+      "email": "nitin4534@gmail.com",
+      "phone": "09854545343",
+      "subject": "Testing",
+      "message": "ddddsfdfdfdfdfdfdfdgddf",
+      "status": "Active",
+      "time": "2023-10-12T07:27:28.976Z",
+      "id": 8
+    }
+  ],
+  "newslatter": [
+    {
+      "id": 0
+    },
+    {
+      "email": "shahrukh123@gmail.com",
+      "id": 1
+    }
+  ],
+  "cart": [
+    {
+      "id": 0
+    }
+  ],
+  "checkout": [
+    {
+      "id": 0,
+      "orderstatus": "Packed"
+    },
+    {
+      "userid": "3",
+      "paymentmode": "COD",
+      "paymentstatus": "Done",
+      "orderstatus": "Delivered",
+      "time": "2023-10-11T04:39:43.321Z",
+      "totalAmount": 42510,
+      "shippingAmount": 0,
+      "finalAmount": 42510,
+      "products": [
+        {
+          "userid": "3",
+          "productid": 18,
+          "name": "Kids Jeans Black slim fit Gucci",
+          "color": "Black",
+          "size": "28",
+          "price": 2344,
+          "qty": 7,
+          "total": 16408,
+          "pic": "product-1.jpg",
+          "id": 1
+        },
+        {
+          "userid": "3",
+          "productid": 11,
+          "name": "Kids Jeans Black slim fit Gucci",
+          "color": "Blue",
+          "size": "xl",
+          "qty": 9,
+          "price": 2816,
+          "pic": "bg_1.jpg",
+          "id": 2,
+          "total": 19712
+        },
+        {
+          "userid": "3",
+          "productid": 13,
+          "name": "Men's Shirt Blue Xtra large Adidas",
+          "color": "Black",
+          "size": "sm",
+          "qty": 3,
+          "price": 4320,
+          "pic": "bg_2.png",
+          "id": 3,
+          "total": 4320
+        },
+        {
+          "userid": "3",
+          "productid": 15,
+          "name": "Female Jeans Blue Adidas",
+          "color": "Blue",
+          "size": "34",
+          "qty": 3,
+          "price": 2070,
+          "pic": "bg_1.png",
+          "id": 4,
+          "total": 2070
+        }
+      ],
+      "id": 1
+    },
+    {
+      "userid": "3",
+      "paymentmode": "COD",
+      "paymentstatus": "Pending",
+      "orderstatus": "Order Placed",
+      "time": "2023-10-11T05:35:37.752Z",
+      "totalAmount": 5616,
+      "shippingAmount": 0,
+      "finalAmount": 5616,
+      "products": [
+        {
+          "userid": "3",
+          "productid": 12,
+          "name": "Mens",
+          "color": "Black",
+          "size": "xl",
+          "qty": 5,
+          "price": 1872,
+          "pic": "choose-1.jpg",
+          "id": 1,
+          "total": 5616
+        }
+      ],
+      "id": 2
+    },
+    {
+      "userid": "3",
+      "paymentmode": "COD",
+      "paymentstatus": "Done",
+      "orderstatus": "Ready To Ship",
+      "time": "2023-10-11T05:36:36.534Z",
+      "totalAmount": null,
+      "shippingAmount": 0,
+      "finalAmount": null,
+      "products": [
+        {
+          "userid": "3",
+          "productid": 11,
+          "name": "Kids Jeans Black slim fit Gucci",
+          "color": "Blue",
+          "size": "xl",
+          "qty": 3,
+          "price": 2816,
+          "pic": "bg_1.jpg",
+          "id": 1
+        }
+      ],
+      "id": 3
+    },
+    {
+      "userid": "3",
+      "paymentmode": "COD",
+      "paymentstatus": "Done",
+      "orderstatus": "Packed",
+      "time": "2023-10-12T07:45:23.812Z",
+      "totalAmount": 3744,
+      "shippingAmount": 0,
+      "finalAmount": 3744,
+      "products": [
+        {
+          "userid": "3",
+          "productid": 12,
+          "name": "Mens",
+          "color": "Black",
+          "size": "xl",
+          "qty": 5,
+          "price": 1872,
+          "pic": "choose-1.jpg",
+          "id": 1,
+          "total": 3744
+        }
+      ],
+      "id": 4
+    },
+    {
+      "userid": "3",
+      "paymentmode": "COD",
+      "paymentstatus": "Pending",
+      "orderstatus": "Order Placed",
+      "time": "2023-10-12T07:47:25.567Z",
+      "totalAmount": 4320,
+      "shippingAmount": 0,
+      "finalAmount": 4320,
+      "products": [
+        {
+          "userid": "3",
+          "productid": 13,
+          "name": "Men's Shirt Blue Xtra large Adidas",
+          "color": "Black",
+          "size": "sm",
+          "qty": 3,
+          "price": 4320,
+          "pic": "bg_2.png",
+          "id": 1,
+          "total": 4320
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "user": [
+    {
+      "id": 0
+    },
+    {
+      "id": 2,
+      "name": "Shamsher khan",
+      "username": "shamsher",
+      "email": "shamsher@gmail.com",
+      "phone": "09854545343",
+      "password": "1234",
+      "addressline1": "House Number 5",
+      "addressline2": "B-112",
+      "addressline3": "Tappal",
+      "pin": "202165",
+      "city": "Tappal",
+      "state": "UP",
+      "pic": "choose-1.jpg",
+      "role": "Admin"
+    },
+    {
+      "id": 3,
+      "name": "Rajkumar Rao",
+      "username": "Rao",
+      "email": "rao123@gmail.com",
+      "phone": "98345343434",
+      "password": "1234",
+      "addressline1": "B-112",
+      "addressline2": "near jkic",
+      "addressline3": "Tappal",
+      "pin": "202165",
+      "city": "Tappal",
+      "state": "UP",
+      "pic": "bg_1.jpg",
+      "role": "User"
+    },
+    {
+      "id": 4,
+      "name": "Sunny Frontend",
+      "username": "sunny",
+      "email": "sunny@gmail.com",
+      "phone": "98324734233",
+      "password": "sunny",
+      "addressline1": "A-114",
+      "addressline2": "Near Main Market",
+      "addressline3": "Tappal",
+      "pin": "202165",
+      "city": "Tappal",
+      "state": "UP",
+      "pic": "person_1.jpg",
+      "role": "User"
+    },
+    {
+      "name": "Raj",
+      "username": "singh",
+      "email": "raj@gmail.com",
+      "phone": "08355398493",
+      "password": "raj",
+      "addressline1": "",
+      "addressline2": "",
+      "addressline3": "",
+      "pin": "",
+      "city": "",
+      "state": "",
+      "pic": "",
+      "role": "User",
+      "id": 5
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 0
+    }
+  ]
+}
